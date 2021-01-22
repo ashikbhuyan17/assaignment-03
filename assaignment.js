@@ -106,7 +106,7 @@ function megaFriend(arr) {
     }
     return result;
 }
-var freiendsName = ["jamal ", "opu", "minhaj", "emon shah", "jannat"]
+var freiendsName = ["jamal", "opu", "minhaj", "kamal Bhuyan", "jannat"]
 var largestName = megaFriend(freiendsName)
 console.log('the largest string = ' + largestName)
 
