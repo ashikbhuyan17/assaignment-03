@@ -26,6 +26,7 @@ console.log('Meter : ' + result)
 
 
 // budgetCalculator 
+
 function budgetCalculator(watch, phone, laptop) {
 
     //If you give a negative input value and this time the program will return Amount cannot be negative
